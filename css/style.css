@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Capture';
+  src: url("font/capture_it.ttf") format('truetype');
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.landing-page {
+  background-image: url("../img/group.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+}
+
+.title {
+  color: white;
+  margin: 0;
+  left: 3%;
+  bottom: 3%;
+  position: absolute;
+}
+
+.title h1 {
+  font-family: 'Capture';
+  font-size: 150px;
+  letter-spacing: 2px;
+  margin: 0;
+}
+
+.title p {
+  font-size: 20px;
+  margin: 0;
+}
+
+.quote {
+  color: red;
+}
