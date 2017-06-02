@@ -122,3 +122,10 @@ html, body {
 .quote p {
   font-style: italic;
 }
+
+.credit {
+  font-family: 'Lora', serif;
+  text-align: center;
+  background-color: rgba(226, 204, 2, 1);
+  color: black;
+}
